@@ -7,6 +7,8 @@
 
 ## Funcionalidades
 - Video chamadas
+- Compartilhamento de tela
+- Webcam e microfone funcionais
 - Chat em tempo real
 - Consumo de API
 
