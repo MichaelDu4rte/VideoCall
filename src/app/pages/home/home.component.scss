@@ -1,0 +1,17 @@
+
+section {
+    color: #fff
+}
+
+.btn {
+    @apply shadow-md py-3 px-6 rounded-md transition duration-300 cursor-pointer;
+
+    &.btn-purple {
+        @apply bg-purple-700 text-white;
+
+        &:hover {
+            @apply bg-white text-black;
+        }
+    }
+}
+
