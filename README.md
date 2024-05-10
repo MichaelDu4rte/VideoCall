@@ -1,4 +1,4 @@
-## Dashboard para controle financeiro, desenvolvido em angular.
+# VideoCall - Video chamadas em tempo real, chats em tempo real.
 
 ## Apresentação
 
